@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Full Name - Resume</title>
+  <style>
+    /* Add your styling here */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+
+    /* Add more styles as needed */
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Your Full Name</h1>
+    <p>Contact Information:<br>
+      Address: [Your Address]<br>
+      Email: [Your Email]<br>
+      Phone: [Your Phone Number]<br>
+      LinkedIn: [Your LinkedIn Profile]</p>
+  </header>
+
+  <section>
+    <h2>Objective:</h2>
+    <p>Dynamic and results-driven Account Executive with a proven track record of success in B2B sales and operations management. Adept at fostering strong client relationships, driving revenue growth, and implementing effective sales strategies. Seeking opportunities to contribute my skills and experience to a forward-thinking organization.</p>
+  </section>
+
+  <section>
+    <h2>Experience:</h2>
+    <!-- Include your experience details here -->
+  </section>
+
+  <section>
+    <h2>Education:</h2>
+    <p><strong>Penn State University</strong><br>
+      Bachelor of Science - BS, Business Administration and Management, General<br>
+      2009 - 2015<br>
+      Relevant coursework: Strategic Management, Organizational Behavior, Financial Management, Marketing, Operations Management, Business Ethics, and Leadership.</p>
+  </section>
+
+  <section>
+    <h2>Skills:</h2>
+    <ul>
+      <!-- List your skills here -->
+      <li>Business-to-Business (B2B)</li>
+      <li>Operations Management</li>
+      <li>Sales</li>
+      <li>Customer Relationship Management (CRM)</li>
+      <li>Software as a Service (SaaS)</li>
+      <li>Salesforce Lightning</li>
+      <li>Leadership</li>
+      <li>Program Management</li>
+      <li>Safety Management Systems</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Certifications:</h2>
+    <p>- Salesforce Social Studio<br>
+      - Salesforce CPQ</p>
+  </section>
+
+  <section>
+    <h2>References:</h2>
+    <p>Available upon request.</p>
+  </section>
+
+  <footer>
+    <p>Note: Ensure to tailor the resume based on the specific job you're applying for, highlighting the skills and experiences most relevant to the position.</p>
+  </footer>
+
+</body>
+
+</html>
